@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericmarshalllambert&label=Profile%20views&color=0e75b6&style=flat" alt="ericmarshalllambert" /> </p>
 
-- 🔭 I’m currently working on **NoDice**
+- 🔭 I’m currently working on **Aether_Ark**
 
 - 🌱 I’m currently learning **more on Docker and Node.js**
 
