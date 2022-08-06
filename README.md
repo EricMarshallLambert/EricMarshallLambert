@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **IOT**
 
-- 💬 Ask me about **Java or Digital Electronics**
+- 💬 Ask me about **LoRa WIFI or Digital Electronics**
 
 - 📫 How to reach me **eric.marshall.lambert@gmail.com**
 
